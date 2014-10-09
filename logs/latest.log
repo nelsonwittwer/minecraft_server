@@ -1,0 +1,809 @@
+[11:34:36] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[11:34:36] [Server thread/INFO]: Loading properties
+[11:34:36] [Server thread/INFO]: Default game type: CREATIVE
+[11:34:36] [Server thread/INFO]: Generating keypair
+[11:34:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:34:37] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.2-b2974jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.2)
+[11:34:37] [Server thread/INFO]: [PuruginPlugin] Loading PuruginPlugin v0.7.1
+[11:34:38] [Thread-10/WARN]: Could not get information about this CraftBukkit version; perhaps you are running a custom one?: IOException
+[11:34:38] [Thread-10/WARN]: Could not get latest artifact information: IOException
+[11:34:41] [Server thread/INFO]: Preparing level "world"
+[11:34:41] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8015038035398698872)
+[11:34:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8015038035398698872)
+[11:34:42] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8015038035398698872)
+[11:34:42] [Server thread/INFO]: [PuruginPlugin] Enabling PuruginPlugin v0.7.1
+[11:34:42] [Server thread/INFO]: [A world that is never dark] version 0.1 ENABLED
+[11:34:42] [Server thread/INFO]: [Bulldozer] version 0.1 ENABLED
+[11:34:42] [Server thread/INFO]: [Cube Generator] version 0.2 ENABLED
+[11:34:42] [Server thread/INFO]: [Road Runner] version 0.1 ENABLED
+[11:34:42] [Server thread/INFO]: [Tron] version 0.1 ENABLED
+[11:34:42] [Server thread/INFO]: [Tunnel] version 0.1 ENABLED
+[11:34:42] [Server thread/INFO]: [Walle] version 0.1 ENABLED
+[11:34:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:34:42] [Server thread/INFO]: Done (1.716s)! For help, type "help" or "?"
+[11:35:06] [User Authenticator #1/INFO]: UUID of player RubyRailster is 3480b1b45bd44c1ca5906a9ebf294ed0
+[11:35:06] [Server thread/INFO]: RubyRailster[/127.0.0.1:64613] logged in with entity id 78 at ([world] -48.12286264374661, 75.0, -136.25632330185678)
+[11:36:56] [Server thread/INFO]: RubyRailster issued server command: /walle 100
+[11:38:20] [Server thread/INFO]: RubyRailster issued server command: /walle 200
+[11:39:08] [Server thread/INFO]: RubyRailster issued server command: /walle off
+[11:39:16] [Server thread/INFO]: RubyRailster lost connection: Disconnected
+[11:39:16] [Server thread/INFO]: RubyRailster left the game.
+[11:41:53] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle.rb
+[11:41:53] [Ruby-0-Thread-41: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[11:41:53] [Ruby-0-Thread-41: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/WARN]: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:44 warning: ambiguous Java methods found, using unregisterAll(org.bukkit.plugin.Plugin)
+
+[11:41:53] [Ruby-0-Thread-41: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[11:41:57] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle.rb
+[11:41:57] [Ruby-0-Thread-42: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[11:41:57] [Ruby-0-Thread-42: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[11:42:13] [User Authenticator #2/INFO]: UUID of player RubyRailster is 3480b1b45bd44c1ca5906a9ebf294ed0
+[11:42:13] [Server thread/INFO]: RubyRailster[/127.0.0.1:64784] logged in with entity id 22897 at ([world] -2.835758215000482, 69.0, -166.50386689637207)
+[11:42:17] [Server thread/INFO]: RubyRailster issued server command: /walle 10
+[11:42:23] [Server thread/INFO]: RubyRailster issued server command: /walle -10
+[11:42:28] [Server thread/INFO]: RubyRailster issued server command: /walle 0
+[11:46:07] [Server thread/INFO]: RubyRailster issued server command: /tron glass
+[11:46:15] [Server thread/INFO]: RubyRailster issued server command: /tron off
+[11:46:43] [Server thread/INFO]: RubyRailster lost connection: Disconnected
+[11:46:43] [Server thread/INFO]: RubyRailster left the game.
+[11:52:50] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle.rb
+[11:52:50] [Ruby-0-Thread-113: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[11:52:50] [Ruby-0-Thread-113: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[11:53:07] [User Authenticator #3/INFO]: UUID of player RubyRailster is 3480b1b45bd44c1ca5906a9ebf294ed0
+[11:53:07] [Server thread/INFO]: RubyRailster[/127.0.0.1:65187] logged in with entity id 26687 at ([world] 1.1199281282666256, 69.0, -162.8142661272014)
+[11:53:10] [Server thread/INFO]: RubyRailster issued server command: /walle 10
+[11:53:16] [Server thread/INFO]: RubyRailster issued server command: /walle off
+[11:53:20] [Server thread/INFO]: RubyRailster lost connection: Disconnected
+[11:53:20] [Server thread/INFO]: RubyRailster left the game.
+[11:53:49] [User Authenticator #4/INFO]: UUID of player RubyRailster is 3480b1b45bd44c1ca5906a9ebf294ed0
+[11:53:49] [Server thread/INFO]: RubyRailster[/127.0.0.1:65212] logged in with entity id 26872 at ([world] 0.6387199147855404, 69.0, -162.08575132789323)
+[11:54:04] [Server thread/INFO]: RubyRailster issued server command: /
+[11:54:06] [Server thread/INFO]: RubyRailster issued server command: /help
+[11:54:10] [Server thread/INFO]: RubyRailster issued server command: /plugins
+[11:54:18] [Server thread/INFO]: RubyRailster issued server command: /help
+[11:54:29] [Server thread/INFO]: RubyRailster issued server command: /help2
+[11:54:31] [Server thread/INFO]: RubyRailster issued server command: /help 2
+[11:54:49] [Server thread/INFO]: RubyRailster lost connection: Disconnected
+[11:54:49] [Server thread/INFO]: RubyRailster left the game.
+[12:14:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1052417ms behind, skipping 21048 tick(s)
+[12:21:19] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: STARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:21:19] [Ruby-0-Thread-162: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:75/INFO]: [Walle] version 0.1 ENABLED
+[12:21:28] [User Authenticator #5/INFO]: UUID of player RubyRailster is 3480b1b45bd44c1ca5906a9ebf294ed0
+[12:21:28] [Server thread/INFO]: RubyRailster[/127.0.0.1:65455] logged in with entity id 27554 at ([world] 0.6387199147855404, 69.0, -162.08575132789323)
+[12:21:38] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to Walle v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:113) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.processBlockPlace(ItemBlock.java:88) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.interactWith(ItemBlock.java:72) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ItemStack.placeItem(ItemStack.java:78) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.interact(PlayerInteractManager.java:390) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:628) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.a(SourceFile:60) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (LocalJumpError) unexpected return
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at RUBY.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.a(SourceFile:60) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.handle(SourceFile:9) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:21:39] [Server thread/ERROR]: Could not pass event BlockPlaceEvent to Walle v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.craftbukkit.v1_7_R1.event.CraftEventFactory.callBlockPlaceEvent(CraftEventFactory.java:113) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.processBlockPlace(ItemBlock.java:88) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ItemBlock.interactWith(ItemBlock.java:72) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ItemStack.placeItem(ItemStack.java:78) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.interact(PlayerInteractManager.java:390) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:628) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.a(SourceFile:60) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.handle(SourceFile:9) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (LocalJumpError) unexpected return
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at RUBY.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.a(SourceFile:60) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockPlace.handle(SourceFile:9) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:21:40] [Server thread/ERROR]: Could not pass event BlockBreakEvent to Walle v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.breakBlock(PlayerInteractManager.java:263) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.dig(PlayerInteractManager.java:118) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:535) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.a(SourceFile:53) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.handle(SourceFile:8) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (LocalJumpError) unexpected return
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.a(SourceFile:53) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.handle(SourceFile:8) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:21:40] [Server thread/ERROR]: Could not pass event BlockBreakEvent to Walle v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.breakBlock(PlayerInteractManager.java:263) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerInteractManager.dig(PlayerInteractManager.java:118) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:535) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.a(SourceFile:53) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.handle(SourceFile:8) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (LocalJumpError) unexpected return
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.a(SourceFile:53) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInBlockDig.handle(SourceFile:8) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:22:09] [Server thread/INFO]: RubyRailster issued server command: /walle 100
+[12:25:23] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:25:23] [Ruby-0-Thread-180: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:25:23] [Ruby-0-Thread-180: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:25:29] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:25:29] [Ruby-0-Thread-181: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:25:29] [Ruby-0-Thread-181: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:25:43] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:25:43] [Ruby-0-Thread-182: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:25:43] [Ruby-0-Thread-182: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:26:33] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:26:33] [Ruby-0-Thread-183: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:26:33] [Ruby-0-Thread-183: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:27:01] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:27:01] [Ruby-0-Thread-184: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:27:01] [Ruby-0-Thread-184: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:27:13] [Server thread/INFO]: RubyRailster issued server command: /help
+[12:27:18] [Server thread/INFO]: RubyRailster issued server command: /help 2
+[12:27:22] [Server thread/INFO]: RubyRailster issued server command: /walle 10
+[12:28:50] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:28:50] [Ruby-0-Thread-187: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:28:50] [Ruby-0-Thread-187: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:28:58] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:28:58] [Ruby-0-Thread-189: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:28:58] [Ruby-0-Thread-189: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:29:02] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:29:02] [Ruby-0-Thread-190: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:29:02] [Ruby-0-Thread-190: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:29:06] [Server thread/INFO]: RubyRailster issued server command: /walle2 10
+[12:29:18] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:29:18] [Ruby-0-Thread-193: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:29:18] [Ruby-0-Thread-193: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:29:21] [Server thread/INFO]: RubyRailster issued server command: /walle2
+[12:29:23] [Server thread/INFO]: RubyRailster issued server command: /help
+[12:29:24] [Server thread/INFO]: RubyRailster issued server command: /help 2
+[12:30:06] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:30:06] [Ruby-0-Thread-196: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:30:06] [Ruby-0-Thread-196: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:30:08] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:30:08] [Ruby-0-Thread-197: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:30:08] [Ruby-0-Thread-197: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:32:00] [Ruby-0-Thread-16: jar:file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin.rb:79/INFO]: RESTARTING: /Users/nelson/minecraft_server_2/plugins/walle2.rb
+[12:32:00] [Ruby-0-Thread-205: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 DISABLED
+[12:32:00] [Ruby-0-Thread-205: file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/purugin/change_listener.rb:60/INFO]: [Walle] version 0.1 ENABLED
+[12:32:25] [Server thread/INFO]: RubyRailster issued server command: /walle 10
+[12:32:53] [Server thread/INFO]: RubyRailster issued server command: /walle10
+[12:32:55] [Server thread/INFO]: RubyRailster issued server command: /walle 100
+[12:34:34] [Server thread/INFO]: RubyRailster issued server command: /cube 10 tnt
+[12:35:49] [Server thread/INFO]: RubyRailster issued server command: /bulldozer 10 10 10 grass
+[12:36:22] [Server thread/INFO]: RubyRailster issued server command: /tunnel 10
+[12:36:30] [Server thread/INFO]: RubyRailster issued server command: /tunnel 100
+[12:37:08] [Server thread/INFO]: RubyRailster issued server command: /walle off
+[12:37:37] [Server thread/INFO]: RubyRailster issued server command: /tron steel_block
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.handle(SourceFile:8) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.handle(SourceFile:8) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInLook.handle(SourceFile:98) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:38] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPositionLook.handle(SourceFile:20) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:39] [Server thread/ERROR]: Could not pass event PlayerMoveEvent to Tron v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:481) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:466) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PlayerConnection.a(PlayerConnection.java:227) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.NetworkManager.a(NetworkManager.java:146) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.u(MinecraftServer.java:655) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.DedicatedServer.u(DedicatedServer.java:250) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.t(MinecraftServer.java:545) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:457) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617) [craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+Caused by: org.jruby.exceptions.RaiseException: (TypeError) cannot convert instance of class org.jruby.RubySymbol to class org.bukkit.Material
+	at Java::OrgBukkitCraftbukkitV1_7_R1Block::CraftBlock.change_type(file:/Users/nelson/minecraft_server_2/plugins/purugin-0.7.1-bukkit-1.7.2-R0.3.jar!/bukkit/block/block.rb:118) ~[?:?]
+	at TronPlugin.change_ground_tile(/Users/nelson/minecraft_server_2/plugins/tron.rb:27) ~[?:?]
+	at RUBY.on_enable(/Users/nelson/minecraft_server_2/plugins/tron.rb:20) ~[?:?]
+	at org.jruby.RubyProc.call(org/jruby/RubyProc.java:271) ~[?:?]
+	at Purugin::Event::PlayerMoveEventListener.on_event((eval):4) ~[?:?]
+	at net.minecraft.server.v1_7_R1.PacketPlayInFlying.a(SourceFile:137) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.PacketPlayInPosition.handle(SourceFile:63) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	at net.minecraft.server.v1_7_R1.ServerConnection.c(SourceFile:134) ~[craftbukkit.jar:git-Bukkit-1.7.2-R0.2-b2974jnks]
+	... 1 more
+[12:37:41] [Server thread/INFO]: RubyRailster issued server command: /tron wool
+[12:37:53] [Server thread/INFO]: RubyRailster issued server command: /tron off
+[12:38:27] [Server thread/INFO]: RubyRailster issued server command: /rain
+[13:22:04] [Server thread/INFO]: RubyRailster lost connection: Internal Exception: net.minecraft.util.io.netty.handler.timeout.ReadTimeoutException
+[13:22:04] [Server thread/INFO]: RubyRailster left the game.
+[13:22:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2417022ms behind, skipping 48340 tick(s)
+[13:27:44] [Thread-7/INFO]: Stopping server
